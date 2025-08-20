@@ -27,14 +27,6 @@ It provides a **frontend** for displaying blogs and a **backend admin panel** fo
 - **Backend:** Node.js, Express.js
 - **Frontend:** EJS templates, Bootstrap
 - **Database:** MongoDB with Mongoose
-- **Authentication:** Session / JWT
+- **Authentication:** JWT
 - **Other:** bcrypt, dotenv
 
----
-
-## 🛠 Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/your-username/news-blog-cms.git
-   cd news-blog-cms
